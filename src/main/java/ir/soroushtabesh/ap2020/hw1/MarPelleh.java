@@ -1,4 +1,4 @@
-package main.java.ir.soroushtabesh.ap2020hw.hw1;
+package main.java.ir.soroushtabesh.ap2020.hw1;
 
 import java.util.ArrayList;
 import java.util.Scanner;
