@@ -1,4 +1,4 @@
-package main.java.ir.soroushtabesh.ap2020.hw1;
+package ir.soroushtabesh.ap2020.hw1;
 
 import java.util.*;
 
