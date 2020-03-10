@@ -1,10 +1,10 @@
-package main.hw1;
+package main.java.ir.soroushtabesh.ap2020hw.hw1;
 
 public class CharGrid {
     private char[][] grid;
 
     /**
-     * Constructs a new main.hw1.CharGrid with the given grid.
+     * Constructs a new main.java.ir.soroushtabesh.ap2020hw.hw1.CharGrid with the given grid.
      * Does not make a copy.
      *
      * @param grid
